@@ -26,4 +26,3 @@
 [![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@silverxcyber)
 
 ---
-*"Think like a hacker, act like a defender!"* 🏴‍☠️
