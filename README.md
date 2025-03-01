@@ -2,12 +2,12 @@
 
 <img src="https://images.steamusercontent.com/ugc/854976916434675605/0A7FF9FDC45305AB9F1B4F51DCAC315274B28F96/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" width="50%" />
 
-## 🚀 About Me
+## About Me
 - 🔐 Ethical Hacker | Cybersecurity Expert | Web Application Pentester
 - 🌍 Love working with Python, JavaScript, HTML, CSS, and Go  
 - 🏴‍☠️ Pentester | CTF Player | Open Source Contributor  
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
