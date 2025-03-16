@@ -5,7 +5,6 @@
 ## About Me
 - 🔐 Ethical Hacker | Cybersecurity Expert | Web Application Pentester
 - 🌍 Love working with Python, JavaScript, HTML, CSS, and Go  
-- 🏴‍☠️ Pentester | CTF Player | Open Source Contributor  
 
 ## Tech Stack
 
