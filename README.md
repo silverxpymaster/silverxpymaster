@@ -23,8 +23,6 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=silverxpymaster&show_icons=true&theme=tokyonight&hide_border=true)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=silverxpymaster&layout=compact&theme=tokyonight&hide_border=true)
 
-> **Note:** Replace `yourusername` with your actual GitHub username to display your stats correctly.
-
 ## ⚡ Let's Connect
 
 [![Telegram](https://img.shields.io/badge/-Telegram-05122A?style=flat&logo=telegram)](https://t.me/silverxvip)
@@ -34,4 +32,4 @@
 
 ---
 
-⭐️ From [SilverX](https://github.com/yourusername)
+⭐️ From [SilverX](https://github.com/silverxpymaster)
