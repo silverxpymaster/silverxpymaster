@@ -5,23 +5,16 @@
 ## About Me
 - 🔐 Ethical Hacker | Cybersecurity Expert | Web Application Pentester
 - 🌍 Love working with Python, JavaScript, HTML, CSS
-- 📚 Always learning and exploring new technologies
 
 ## 🛠️ Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
-![Go](https://img.shields.io/badge/-Go-05122A?style=flat&logo=go)
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css3)
 ![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)
-
-## 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=silverxpymaster&show_icons=true&theme=tokyonight&hide_border=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=silverxpymaster&layout=compact&theme=tokyonight&hide_border=true)
 
 ## ⚡ Let's Connect
 
