@@ -20,8 +20,6 @@
 
 [![Telegram](https://img.shields.io/badge/-Telegram-05122A?style=flat&logo=telegram)](https://t.me/silverxvip)
 [![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@silverxcyber)
-[![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)](https://github.com/yourusername)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourusername)
 
 ---
 
