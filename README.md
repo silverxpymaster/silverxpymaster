@@ -31,7 +31,6 @@ I enjoy building custom tools and exploring lesser-known aspects of ethical hack
 ### Projects & Focus Areas
 
 - Custom tools for reconnaissance and vulnerability scanning  
-- Burp Suite automation and extensions  
 - Scripting for bug bounty and reporting processes
 
 ---
