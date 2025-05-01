@@ -1,26 +1,50 @@
-### Hi there, I'm SilverX! 👋
+<h1 align="center">Hi there, I'm SilverX</h1>
 
-<img src="https://images.steamusercontent.com/ugc/854976916434675605/0A7FF9FDC45305AB9F1B4F51DCAC315274B28F96/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" width="50%" />
+<p align="center">
+  <img src="https://media.giphy.com/media/3o7btXJQm5DD8QHPQ4/giphy.gif" width="400"/>
+</p>
 
-## About Me
-- 🔐 Ethical Hacker | Cybersecurity Expert | Web Application Pentester
-- 🌍 Love working with Python, JavaScript, HTML, CSS
+---
 
-## 🛠️ Tech Stack
+### About Me
 
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=css3)
-![Linux](https://img.shields.io/badge/-Linux-05122A?style=flat&logo=linux)
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
-![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)
+I am a cybersecurity professional from Azerbaijan with a strong focus on Web Application Penetration Testing and offensive security.  
+I regularly share educational content on my YouTube channel related to cybersecurity, web application pentesting, and bug bounty methodologies.  
+I enjoy building custom tools and exploring lesser-known aspects of ethical hacking.
 
-## ⚡ Let's Connect
+---
 
-[![Telegram](https://img.shields.io/badge/-Telegram-05122A?style=flat&logo=telegram)](https://t.me/silverxvip)
+### Tech Stack
+
+<p>
+  <img src="https://img.shields.io/badge/Python-05122A?style=flat&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-05122A?style=flat&logo=javascript"/>
+  <img src="https://img.shields.io/badge/HTML-05122A?style=flat&logo=html5"/>
+  <img src="https://img.shields.io/badge/CSS-05122A?style=flat&logo=css3"/>
+  <img src="https://img.shields.io/badge/Linux-05122A?style=flat&logo=linux"/>
+  <img src="https://img.shields.io/badge/Git-05122A?style=flat&logo=git"/>
+  <img src="https://img.shields.io/badge/Docker-05122A?style=flat&logo=docker"/>
+</p>
+
+---
+
+### Projects & Focus Areas
+
+- Custom tools for reconnaissance and vulnerability scanning  
+- Burp Suite automation and extensions  
+- Scripting for bug bounty and reporting processes
+
+<p align="center">
+  <img src="https://media.giphy.com/media/Z9UWPm5PjWkOQ/giphy.gif" width="400"/>
+</p>
+
+---
+
+### Connect With Me
+
+[![Telegram](https://img.shields.io/badge/-Telegram-05122A?style=flat&logo=telegram)](https://t.me/silverxvip)  
 [![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/@silverxcyber)
 
 ---
 
-⭐️ From [SilverX](https://github.com/silverxpymaster)
+Created by [SilverX](https://github.com/silverxpymaster)
