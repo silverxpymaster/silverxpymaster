@@ -24,9 +24,9 @@ I enjoy building custom tools and exploring lesser-known aspects of ethical hack
   <img src="https://img.shields.io/badge/Linux-05122A?style=flat&logo=linux"/>
   <img src="https://img.shields.io/badge/Git-05122A?style=flat&logo=git"/>
   <img src="https://img.shields.io/badge/Docker-05122A?style=flat&logo=docker"/>
+  <img src="https://img.shields.io/badge/SQL-05122A?style=flat&logo=postgresql&logoColor=white"/>
 </p>
 
----
 
 ### Projects & Focus Areas
 
