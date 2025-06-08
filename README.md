@@ -21,9 +21,6 @@ I enjoy building custom tools and exploring lesser-known aspects of ethical hack
   <img src="https://img.shields.io/badge/JavaScript-05122A?style=flat&logo=javascript"/>
   <img src="https://img.shields.io/badge/HTML-05122A?style=flat&logo=html5"/>
   <img src="https://img.shields.io/badge/CSS-05122A?style=flat&logo=css3"/>
-  <img src="https://img.shields.io/badge/Linux-05122A?style=flat&logo=linux"/>
-  <img src="https://img.shields.io/badge/Git-05122A?style=flat&logo=git"/>
-  <img src="https://img.shields.io/badge/Docker-05122A?style=flat&logo=docker"/>
   <img src="https://img.shields.io/badge/SQL-05122A?style=flat&logo=database&logoColor=white"/>
 </p>
 
