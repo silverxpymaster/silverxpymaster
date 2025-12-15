@@ -8,7 +8,7 @@
 
 ### About Me
 
-I am White Hat hacker & Penetration Tester from Azerbaijan with a strong focus on Web Application Penetration Testing and offensive security.  
+I am Bug Hunter & Penetration Tester from Azerbaijan with a strong focus on Web Application Penetration Testing and offensive security.  
 I regularly share educational content on my YouTube channel related to cybersecurity, web application pentesting, and bug bounty methodologies.  
 I enjoy building custom tools and exploring lesser-known aspects of ethical hacking.
 
