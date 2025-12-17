@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm SilverX</h1>
 
 <p align="center">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dHZ1NmNkcmIxNHZ0M2M1bXMxbHJnbjB3OG8yaXpwZ2NoNGJicndlbiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/I2oEGoJifEahYnseyE/giphy.webp" width="400"/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3dGR5eWs2YmphZmY5YW9tZnNldGd1MzIwa3Rta3pieWM3NzM1c3R5NyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/34B3R87IcrL8I5rSIM/200.webp" width="400"/>
 </p>
 
 ---
