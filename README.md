@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm SilverX</h1>
 
 <p align="center">
-  <img src="[https://media.licdn.com/dms/image/v2/D5622AQE9zXT1T-HXmw/feedshare-shrink_800/B56ZWqE7RRGsAo-/0/1742315198277?e=2147483647&v=beta&t=E6Q6yeBhvyt2y_ru28g50LTQHOuS-uBvAi8Qh9KlSW4](https://cdn.displate.com/artwork/270x380/2019-04-05/54847f2f4d136a6dff389b200c2db4e7_6fafcfa30c046c0fdcd104372638066a.jpg)" width="400"/>
+  <img src="https://cdn.displate.com/artwork/270x380/2019-04-05/54847f2f4d136a6dff389b200c2db4e7_6fafcfa30c046c0fdcd104372638066a.jpg" width="400"/>
 </p>
 
 ---
